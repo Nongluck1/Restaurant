@@ -1,0 +1,10 @@
+D:\project data programming\Amazon shop\Amazon shop\bin\Debug\Amazon shop.exe.config
+D:\project data programming\Amazon shop\Amazon shop\bin\Debug\Amazon shop.exe
+D:\project data programming\Amazon shop\Amazon shop\bin\Debug\Amazon shop.pdb
+D:\project data programming\Amazon shop\Amazon shop\obj\Debug\Amazon shop.csproj.AssemblyReference.cache
+D:\project data programming\Amazon shop\Amazon shop\obj\Debug\Amazon_shop.Form1.resources
+D:\project data programming\Amazon shop\Amazon shop\obj\Debug\Amazon_shop.Properties.Resources.resources
+D:\project data programming\Amazon shop\Amazon shop\obj\Debug\Amazon shop.csproj.GenerateResource.cache
+D:\project data programming\Amazon shop\Amazon shop\obj\Debug\Amazon shop.csproj.CoreCompileInputs.cache
+D:\project data programming\Amazon shop\Amazon shop\obj\Debug\Amazon shop.exe
+D:\project data programming\Amazon shop\Amazon shop\obj\Debug\Amazon shop.pdb
